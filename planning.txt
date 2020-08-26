@@ -2,4 +2,7 @@ plan1:
   - subplan1
 plan2:
   - subplan2
-plan3
+plan3:
+  - subplan1
+  - subplan2
+
